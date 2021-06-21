@@ -1,8 +1,10 @@
 ---
+layout: archive
 permalink: /knowledgebase/
-title: "Terms and Privacy Policy"
+title: "knowledgebase"
 modified: 2016-06-06
 ---
+
 
 {% include base_path %}
 {% include toc %}
