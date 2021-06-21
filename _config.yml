@@ -181,7 +181,7 @@ collections:
   media:
     output: true
     permalink: /:collection/:path/
-  knowledgwbase:
+  knowledgebase:
     output: true
     permalink: /:collection/:path/
   about:
@@ -200,6 +200,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _knowledgebase
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true    
   # _media
   - scope:
       path: ""
