@@ -1,5 +1,8 @@
-title: Tactile theme
-description: Tactile is a theme for GitHub Pages.
+title: DOD
+description: Based on jekyll-theme-hamilton
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-tactile
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: ngzhio/jekyll-theme-hamilton
