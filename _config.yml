@@ -1,8 +1,6 @@
 title: DOD
 description: Based on jekyll-theme-hamilton
-show_downloads: true
 google_analytics:
 plugins:
   - jekyll-remote-theme
-
 remote_theme: ngzhio/jekyll-theme-hamilton
