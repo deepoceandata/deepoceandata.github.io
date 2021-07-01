@@ -1,7 +1,18 @@
-title: DOD
-description: Based on jekyll-theme-hamilton
+title: Deep Ocean Data team page
+title_separator          : "-"
+name                     : &name "Deep Ocean DAta"
+description: &description "Ocean Life research using ML, Bigdata and other cool stuff"
+url                      : https://github.com/deepoceandata/deepoceandata.github.io
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "https://github.com/deepoceandata/"
 google_analytics:
 plugins:
   - jekyll-remote-theme
 remote_theme: ngzhio/jekyll-theme-hamilton
 skin: sunrise
+# Site Author
+author:
+  name             : "Deep Ocean Data"
+  avatar           : "profile.png"
+  bio              : "Marine Life Research with Digital Techologies"
+  location         : "Moscow"
