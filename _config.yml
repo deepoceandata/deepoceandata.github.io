@@ -4,7 +4,7 @@ name                     : Deep Ocean Data
 description: Ocean Life research using ML, Bigdata and other cool stuff
 url                      : https://github.com/deepoceandata/deepoceandata.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/deepoceandata/"
+repository               : https://github.com/deepoceandata/
 google_analytics:
 plugins:
   - jekyll-remote-theme
