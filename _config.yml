@@ -1,6 +1,4 @@
 title: Deep Ocean Data team page
-title_separator          : "-"
-name                     : Deep Ocean Data
 description: Ocean Life research using ML, Bigdata and other cool stuff
 url                      : https://github.com/deepoceandata/deepoceandata.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -11,8 +9,13 @@ plugins:
 remote_theme: ngzhio/jekyll-theme-hamilton
 skin: sunrise
 # Site Author
-author:
-  name             : Deep Ocean Data
-  avatar           : profile.png
-  bio              : Marine Life Research with Digital Techologies
-  location         : Moscow
+author: Deep Ocean Data team
+name             : Deep Ocean Data
+email : email@email.org
+avatar           : /profile.png
+# Jekyll SEO Tag (Optional)
+# =========================
+twitter:
+  username: 
+  card: summary
+logo: profile.png
