@@ -7,7 +7,7 @@ google_analytics:
 plugins:
   - jekyll-remote-theme
 remote_theme: ngzhio/jekyll-theme-hamilton
-skin: sunrise
+skin: daylight
 # Site Author
 author: Deep Ocean Data team
 name             : Deep Ocean Data
