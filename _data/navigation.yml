@@ -1,12 +1,10 @@
 - title: About
   url: /about/
-- title: Years
-  url: /years/
-- title: Categories
-  url: /categories/
-- title: Tags
-  url: /tags/
-- title: More
+- title: Media
+  url: /media/
+- title: Projects
+  url: /projects/
+- title: Go deeper
   sublinks:
     - title: FAQ
       url: /faq/
