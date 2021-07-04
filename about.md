@@ -8,7 +8,7 @@ Nevertheless, life of big societies of marine dwellers is the subject of certain
 
 Today we can monitor ocean with the help of different oceanographic measurement systems and remote sensing space-based scanners.
 
-Using the power of the most recent deep learning techologies and big amounts of oceanographic data, our **Deep* Ocean Data** team discovers such kinds of complex dependencies and applies this knowledge to solving of most important problems in ocean life research and conservation.
+Using the power of the most recent deep learning techologies and big amounts of oceanographic data, our **Deep Ocean Data** team discovers such kinds of complex dependencies and applies this knowledge to solving of most important problems in ocean life research and conservation.
 
 We need extrememly in new collaborators in this pioneering research.
 
